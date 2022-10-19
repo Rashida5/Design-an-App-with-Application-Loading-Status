@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="default_text_size">20sp</dimen>
+    <dimen name="static_width_size_left">145</dimen>
+    <dimen name="static_height_size_top">40</dimen>
+    <dimen name="static_width_size_right">80</dimen>
+    <dimen name="static_height_size_bottom">40</dimen>
+    <dimen name="start_angle">0</dimen>
+</resources>
